@@ -1,2 +1,2 @@
-# MimosAmanda
-Repositório criado para criação de um cartão de visita digital do Mimos de Amanda
+# Mimos de Amanda
+Cartão de visita digital para loja Mimos de Amanda
